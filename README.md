@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png)
 # GATE 2022 #
 
 Ever had trouble getting the right material to study from? Well look no further here's a collection of all resources required gathered under one roof!
